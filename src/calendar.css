@@ -1,0 +1,13 @@
+.react-calendar__month-view__weekdays {
+  color: gray;
+}
+
+.react-calendar__navigation button {
+  font-size: 1em;
+}
+
+.calendar{
+  border-radius : 15px;
+  box-shadow: 5px 1px 35px black;
+  margin-left: 25px;
+}
